@@ -14,8 +14,8 @@ const questions = [
         answers: [
             {text: "Kalahari", correct: false},
             {text: "Gobi", correct: false},
-            {text: "Sahara", correct: false},
-            {text: "Antartica", correct: true},
+            {text: "Sahara", correct: true},
+            {text: "Antartica", correct: false},
         ]
     },
 
